@@ -10,7 +10,7 @@ public class PhoneConfigurator {
 
     public PhoneConfigurator setScreen(String screen) {
         this.screen = screen;
-        return  this;
+        return this;
     }
     public PhoneConfigurator setBody(String body) {
         this.body = body;
